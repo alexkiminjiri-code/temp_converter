@@ -1,6 +1,6 @@
 # Temperature Converter Program
 
-print("🌡️ Temperature Converter 🌡️")
+print(" Temperature Converter ")
 print("-----------------------------")
 
 print("Choose conversion type:")
